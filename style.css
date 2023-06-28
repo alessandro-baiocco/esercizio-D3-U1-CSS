@@ -14,9 +14,10 @@ main {
   align-items: center;
   display: flex;
 }
-.imtag {
+figcaption {
   text-align: center;
   color: #aaaaaa;
+  margin-bottom: 10px;
 }
 .subtitle {
   margin-top: 9px;
@@ -55,5 +56,8 @@ div img {
   box-shadow: inset -1px 3px 8px 5px #1f87ff, 0px 0px 14px -3px rgba(0, 0, 0, 0.57);
 }
 .list {
-  font-size: 30px;
+  font-size: 20px;
+}
+hr {
+  border-color: #c4f3f2;
 }
